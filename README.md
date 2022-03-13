@@ -7,7 +7,6 @@ There were 3 assignments given and was mentioned that any one could be selected 
 But I have worked on 2 assignments:
 * 1 Contacts application.
 * 2 Ball Brick game.
-\
 
 *******************************************************************************
 # <b>1) Contacts Application</b>
