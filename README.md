@@ -87,7 +87,6 @@ This program was developed in <b>Jupyter Notebook</b> by using Python language.
 * All 5 questions output can be viewed in pdf file or can be executed.
 
 *********************************************************************************
-
-
+I enjoyed while completing the tasks and found them very intersting. Waiting eagerly for the next round <b> _Thank You_ </b>
 
 
