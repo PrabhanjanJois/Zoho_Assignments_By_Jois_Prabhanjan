@@ -39,13 +39,13 @@ The new user can create a new system account by registering their credentials.
 * (iii)LOGIN CREDITINALS
 
 *******************************************************************************
-(i).._REQUIREMENTS_.. :
+(i)<b>_REQUIREMENTS_</b> :
 *******************************************************************************
 * Download and Install any local web server such as XAMPP/WAMP.
 * Download the above file <b>PhoneBook</b> found in the above repository
 
 *******************************************************************************
-(ii).._INSTALLATION/STEP-UP STEPS_..
+(ii)<b>_INSTALLATION/STEP-UP STEPS_</b>
 *******************************************************************************
 
 1) Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
@@ -57,7 +57,7 @@ The new user can create a new system account by registering their credentials.
 7) Browse the Phone book/directory Web App in a browser. i.e. http://localhost/PhoneBook.
 
 *******************************************************************************
-(iii).._LOGIN CREDITINALS_..:
+(iii)<b>_LOGIN CREDITINALS_</b>:
 *******************************************************************************
 * Username: <b>jois</b>
 * Password: <b>1234</b>
@@ -81,9 +81,9 @@ This program was developed in <b>Jupyter Notebook</b> by using Python language.
 ********************************************************************************
 <b> How to run?? :</b>
 ********************************************************************************
-* Can be Run in Jupyter Notebook(recommended) by clicking on file _Ball_Brick_Assignment-2_Zoho.ipynb_
+* Can be Run in Jupyter Notebook(recommended) by clicking on file <b>_Ball_Brick_Assignment-2_Zoho.ipynb_</b>
 * Can be Run on Python file by clicking on file <b>_Ball_Brick_Assignment-2_Zoho.py_</b>
-* The OUTPUT can viewed on pdf by clicking on file _Ball_Brick_Assignment-2_Zoho.pdf_
+* The OUTPUT can viewed on pdf by clicking on file <b>_Ball_Brick_Assignment-2_Zoho.pdf_</b>
 * All 5 questions output can be viewed in pdf file or can be executed.
 
 *********************************************************************************
