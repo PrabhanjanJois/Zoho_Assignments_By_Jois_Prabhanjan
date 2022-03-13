@@ -39,13 +39,13 @@ The new user can create a new system account by registering their credentials.
 * (iii)LOGIN CREDITINALS
 
 *******************************************************************************
-(i)<b>_REQUIREMENTS_</b> :
+(i) <b>_REQUIREMENTS_</b> :
 *******************************************************************************
 * Download and Install any local web server such as XAMPP/WAMP.
 * Download the above file <b>PhoneBook</b> found in the above repository
 
 *******************************************************************************
-(ii)<b>_INSTALLATION/STEP-UP STEPS_</b>
+(ii) <b>_INSTALLATION/STEP-UP STEPS_</b>
 *******************************************************************************
 
 1) Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
@@ -57,7 +57,7 @@ The new user can create a new system account by registering their credentials.
 7) Browse the Phone book/directory Web App in a browser. i.e. http://localhost/PhoneBook.
 
 *******************************************************************************
-(iii)<b>_LOGIN CREDITINALS_</b>:
+(iii) <b>_LOGIN CREDITINALS_</b>:
 *******************************************************************************
 * Username: <b>jois</b>
 * Password: <b>1234</b>
