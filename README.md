@@ -48,6 +48,8 @@ INSTALLATION/STEP-UP STEPS
 6) Import the provided SQL file. The file is known as phonebook.sql located inside the extracted source code folder.
 7) Browse the Phone book/directory Web App in a browser. i.e. http://localhost/PhoneBook.
 \
+\
+\
 LOGIN CREDITINALS
 \
 Username: <b>jois</b>\
