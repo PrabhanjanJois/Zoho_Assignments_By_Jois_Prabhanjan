@@ -30,21 +30,22 @@ This web-based application was developed using PHP, MySQL Database, HTML, CSS, a
 \
 \
 <b>How to Run ??:</b>
+********************************************************************************
 * (i)REQUIREMENTS
 * (ii)INSTALLATION/STEP-UP STEPS
 * (iii)LOGIN CREDITINALS
 \
 \
----------------------------------------------------------------------------------------
+
 (i)REQUIREMENTS
----------------------------------------------------------------------------------------
+*******************************************************************************
 \
 Download and Install any local web server such as XAMPP/WAMP.\
 Download the provided source code zip file. (download button is located below)\
 \
---------------------------------------------------------------------------------------
+
 (ii)INSTALLATION/STEP-UP STEPS
---------------------------------------------------------------------------------------
+*******************************************************************************
 
 1) Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
 2) Extract the downloaded source code zip file.
@@ -55,9 +56,9 @@ Download the provided source code zip file. (download button is located below)\
 7) Browse the Phone book/directory Web App in a browser. i.e. http://localhost/PhoneBook.
 \
 \
--------------------------------------------------------------------------------------
+
 (iii)LOGIN CREDITINALS
--------------------------------------------------------------------------------------
+*******************************************************************************
 Username: <b>jois</b>\
 Password: <b>1234</b>\
 
