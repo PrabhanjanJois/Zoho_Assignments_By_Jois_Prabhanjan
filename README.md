@@ -82,7 +82,7 @@ This program was developed in <b>Jupyter Notebook</b> by using Python language.
 <b> How to run?? :</b>
 ********************************************************************************
 * Can be Run in Jupyter Notebook(recommended) by clicking on file _Ball_Brick_Assignment-2_Zoho.ipynb_
-* Can be Run on Python file by clicking on file _Ball_Brick_Assignment-2_Zoho.py_
+* Can be Run on Python file by clicking on file <b>_Ball_Brick_Assignment-2_Zoho.py_</b>
 * The OUTPUT can viewed on pdf by clicking on file _Ball_Brick_Assignment-2_Zoho.pdf_
 * All 5 questions output can be viewed in pdf file or can be executed.
 
