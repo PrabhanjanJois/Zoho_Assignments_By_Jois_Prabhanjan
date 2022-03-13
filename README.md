@@ -27,7 +27,7 @@ This web-based application was developed using PHP, MySQL Database, HTML, CSS, a
 * Change Password
 * About me page
 * Logout
-\
+
 
 ********************************************************************************
 <b>How to Run ??:</b>
