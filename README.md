@@ -6,4 +6,6 @@ I have been delighted to get selected for the second programming round in zoho a
 There were 3 assignments given and was mentioned that any one could be selected and worked on.\
 But I have worked on 2 assignments:
 * 1 Contacts application.
-* 2 Ball Brick game
+* 2 Ball Brick game.
+\
+<b>Contacts Application</b>
