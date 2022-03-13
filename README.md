@@ -9,7 +9,8 @@ But I have worked on 2 assignments:
 * 2 Ball Brick game.
 \
 \
-<b>1) Contacts Application</b>
+*******************************************************************************
+# <b>1) Contacts Application</b>
 \
 \
 This web-based application was developed using PHP, MySQL Database, HTML, CSS, and JavaScript. The application has a pleasant user interface and is easy to use. The system requires system users' credentials to access the list of the phone books or directories and other features of the application. The new user can create a new system account by registering their credentials.
@@ -37,13 +38,13 @@ This web-based application was developed using PHP, MySQL Database, HTML, CSS, a
 * (iii)LOGIN CREDITINALS
 
 *******************************************************************************
-(i).._REQUIREMENTS_ :
+(i).._REQUIREMENTS_.. :
 *******************************************************************************
 * Download and Install any local web server such as XAMPP/WAMP.
-* Download the provided source code zip file. (download button is located below)
+* Download the above file <b>PhoneBook</b> found in the above repository
 
 *******************************************************************************
-(ii).._INSTALLATION/STEP-UP STEPS_ 
+(ii).._INSTALLATION/STEP-UP STEPS_..
 *******************************************************************************
 
 1) Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
@@ -55,9 +56,13 @@ This web-based application was developed using PHP, MySQL Database, HTML, CSS, a
 7) Browse the Phone book/directory Web App in a browser. i.e. http://localhost/PhoneBook.
 
 *******************************************************************************
-(iii).._LOGIN CREDITINALS_:
+(iii).._LOGIN CREDITINALS_..:
 *******************************************************************************
 * Username: <b>jois</b>
 * Password: <b>1234</b>
+
+*******************************************************************************
+# <b>1) Ball Brick game</b>
+
 
 
