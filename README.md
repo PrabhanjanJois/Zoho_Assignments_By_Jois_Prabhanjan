@@ -30,9 +30,9 @@ This web-based application was developed using PHP, MySQL Database, HTML, CSS, a
 \
 \
 <b>How to Run ??:</b>
-*(i)REQUIREMENTS
-*(ii)INSTALLATION/STEP-UP STEPS
-*(iii)LOGIN CREDITINALS
+* (i)REQUIREMENTS
+* (ii)INSTALLATION/STEP-UP STEPS
+* (iii)LOGIN CREDITINALS
 \
 \
 (i)REQUIREMENTS
